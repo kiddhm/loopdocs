@@ -32,7 +32,7 @@ When the code got to a stable, reliable state and was ready for a larger audienc
 
 Also, omnipod-testing branch was not going to undergo a lot of active revisions to it when it was released. The intent was to keep it as a fairly known, un-changed product for people rather than a constantly changing code set...that way if people noted a bug, it would be a more "known" code base to work to debug.
 
-So, omnipod-testing branch has undergone very little revision since it was first released. In face, since its release in late April/early May 2019, there has only been two updates; one for the newer style Dexcom G6 transmitters and one for iOS 13 compatibility. Nothing major has been done in that branch, intentionally. As described above, the branch is serving as a stable platform for users and has helped catch bugs as a result of NOT being changed constantly.
+So, omnipod-testing branch has undergone very little revision since it was first released. In fact, since its release in late April/early May 2019, there has only been two updates; one for the newer style Dexcom G6 transmitters and one for iOS 13 compatibility. Nothing major has been done in that branch, intentionally. As described above, the branch is serving as a stable platform for users and has helped catch bugs as a result of NOT being changed constantly.
 
 ## What is the future of omnipod-testing branch? Will it be updated?
 
